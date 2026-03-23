@@ -121,9 +121,8 @@ This dashboard helps:
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: Add your link
-- 💻 GitHub: Add your profile link
-
+- 💼 LinkedIn: [](linkedin.com/in/ashwin-shende-8350963a3)
+- 💻 GitHub: [](https://github.com/ashwinshende1603)
 ---
 
 ## ⭐ If you found this project useful
