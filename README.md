@@ -39,7 +39,7 @@ The dataset includes the following key fields:
 
 ### 🔹 Executive Overview
 
-<img width="1278" height="710" alt="Screenshot 2026-03-23 122546" src="https://github.com/user-attachments/assets/f7ef98b5-3229-4ce2-bb8e-12375fe3aba7" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122546" src="https://github.com/user-attachments/assets/f7ef98b5-3229-4ce2-bb8e-12375fe3aba7" />
 
 - Total Views, Likes, Comments
 - Average Views KPI
@@ -47,42 +47,42 @@ The dataset includes the following key fields:
 
 ### 🔹 Category Analysis
 
-<img width="1277" height="710" alt="Screenshot 2026-03-23 122612" src="https://github.com/user-attachments/assets/22c87edc-5ee6-472a-bde4-1c6636d5ab8d" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122612" src="https://github.com/user-attachments/assets/22c87edc-5ee6-472a-bde4-1c6636d5ab8d" />
 
 - Top categories by views
 - Engagement by category
 
 ### 🔹 Channel Performance
 
-<img width="1275" height="710" alt="Screenshot 2026-03-23 122641" src="https://github.com/user-attachments/assets/b2b981c0-4a11-4b81-9100-0524ce014907" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122641" src="https://github.com/user-attachments/assets/b2b981c0-4a11-4b81-9100-0524ce014907" />
 
 - Top channels by views & likes
 - Creator influence analysis
 
 ### 🔹 Video Engagement
 
-<img width="1275" height="710" alt="Screenshot 2026-03-23 122708" src="https://github.com/user-attachments/assets/3892b9c2-d7aa-4fa0-a375-41d40597bb30" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122708" src="https://github.com/user-attachments/assets/3892b9c2-d7aa-4fa0-a375-41d40597bb30" />
 
 - Views vs Likes relationship
 - Top videos by engagement
 
 ### 🔹 Geographic Insights
 
-<img width="1275" height="710" alt="Screenshot 2026-03-23 122730" src="https://github.com/user-attachments/assets/a26edb89-ab99-4e96-b181-3c57e1f11817" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122730" src="https://github.com/user-attachments/assets/a26edb89-ab99-4e96-b181-3c57e1f11817" />
 
 - Country-wise trending distribution
 - Regional performance comparison
 
 ### 🔹 Trending Patterns
 
-<img width="1275" height="710" alt="Screenshot 2026-03-23 122755" src="https://github.com/user-attachments/assets/8cbf8edc-786a-4417-b4c6-3ea19b394ce0" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122755" src="https://github.com/user-attachments/assets/8cbf8edc-786a-4417-b4c6-3ea19b394ce0" />
 
 - Time-based trend analysis
 - Daily trending activity
 
 ### 🔹 Top Performing Videos
 
-<img width="1275" height="710" alt="Screenshot 2026-03-23 122818" src="https://github.com/user-attachments/assets/591e57e5-b0e5-4140-b44d-a9d0a4ce4c4b" />
+<img width="1200" height="710" alt="Screenshot 2026-03-23 122818" src="https://github.com/user-attachments/assets/591e57e5-b0e5-4140-b44d-a9d0a4ce4c4b" />
 
 - Top viral videos based on views & engagement
 
