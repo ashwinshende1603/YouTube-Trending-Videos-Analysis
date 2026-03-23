@@ -16,6 +16,9 @@ The goal is to uncover **content performance insights, audience engagement patte
 ---
 
 ## 🛠️ Tools & Technologies
+
+![images](https://github.com/user-attachments/assets/1bb1e9e2-af9a-48cf-aca2-af2e4b4ffed2)
+
 - 📊 Power BI (Data Visualization)
 - 🧹 Power Query (Data Cleaning)
 - 📐 DAX (Data Analysis Expressions)
