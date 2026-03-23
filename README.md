@@ -121,8 +121,8 @@ This dashboard helps:
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: [](linkedin.com/in/ashwin-shende-8350963a3)
-- 💻 GitHub: [](https://github.com/ashwinshende1603)
+- 💼 LinkedIn: linkedin.com/in/ashwin-shende-8350963a3
+- 💻 GitHub: https://github.com/ashwinshende1603
 ---
 
 ## ⭐ If you found this project useful
