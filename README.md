@@ -1,5 +1,5 @@
 # 📊 YouTube Trending Analytics Dashboard (Power BI)
-
+[](https://wallpapers.com/images/featured/youtube-background-34ycn949dz42yg4c.jpg)
 ## 🚀 Project Overview
 This project presents an **interactive Power BI dashboard** analyzing YouTube trending videos across different countries, categories, and channels.  
 The goal is to uncover **content performance insights, audience engagement patterns, and global trends** using data-driven techniques.
